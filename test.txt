@@ -1,0 +1,13 @@
+create_parking_lot 5
+park ABC-1111 Blue
+park ABD-2222 Green
+park AB-1111 Black
+park AB-4444 Green
+status
+leave 4
+park ABD-222 Black
+leave 2
+status
+park AB-4444 Green
+plate_numbers_for_cars_with_colour Green
+status
